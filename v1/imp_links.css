@@ -1,0 +1,19 @@
+.container{
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover{
+    color: white;
+    background-color: goldenrod;
+    font-size: 1.2rem;
+}
+
+h2{
+    text-align: center;
+}
+
